@@ -63,8 +63,6 @@
 //}
 //Array.Sort(kelimeler, (x, y) => x.Length.CompareTo(y.Length));
 //Console.WriteLine("Girdiğiniz en uzun kelime {0}\nBu kelime {1} harf uzunluğundadır.", kelimeler[9], kelimeler[9].Length);
-//foreach (string s in kelimeler)
-//    Console.WriteLine(s + " " + s.Length);
 
 ////--------------------------------------------------------------------------------
 
