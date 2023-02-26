@@ -1,0 +1,15 @@
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\bin\Debug\net7.0\odev_01.exe
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\bin\Debug\net7.0\odev_01.deps.json
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\bin\Debug\net7.0\odev_01.runtimeconfig.json
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\bin\Debug\net7.0\odev_01.dll
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\bin\Debug\net7.0\odev_01.pdb
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.csproj.AssemblyReference.cache
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.AssemblyInfoInputs.cache
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.AssemblyInfo.cs
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.csproj.CoreCompileInputs.cache
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.dll
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\refint\odev_01.dll
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.pdb
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\odev_01.genruntimeconfig.cache
+D:\web_dev\infotech\projeler\Bekir\odev_01\odev_01\obj\Debug\net7.0\ref\odev_01.dll
